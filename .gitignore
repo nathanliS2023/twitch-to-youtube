@@ -1,0 +1,14 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Environment and IDE settings
+.env
+.vscode/
+.idea/
+
+# Logs
+logs/
+
+# Configuration files containing secrets or keys
+config/config.yaml
