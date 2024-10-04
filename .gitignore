@@ -12,3 +12,9 @@ logs/
 
 # Configuration files containing secrets or keys
 config/config.yaml
+
+# Virtual environment
+env/
+
+# Json files
+*.json
